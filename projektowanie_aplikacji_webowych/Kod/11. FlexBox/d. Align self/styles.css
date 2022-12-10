@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 480px;
+    background-color: gray;
+    }
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+    margin: 5px;
+}
+.self {
+    align-self: flex-end;
+}

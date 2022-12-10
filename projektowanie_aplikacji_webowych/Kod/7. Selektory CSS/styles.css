@@ -1,0 +1,24 @@
+/**{*/
+/*    border: 3px solid darkblue;*/
+/*!*}*!*/
+/*div{*/
+/*    border: 3px solid darkblue;*/
+/*!*}*!*/
+/*.boxes{*/
+/*    border: 3px solid darkblue;*/
+/*!*}*!*/
+/*#box-one {*/
+/*    border: 3px solid darkblue;*/
+/*!*}*!*/
+/*#big-box > div {*/
+/*    border: 3px solid darkblue;*/
+/*!*}*!*/
+/*#big-box div{*/
+/*    border: 3px solid darkblue;*/
+/*!*}*!*/
+/*#box-two + div {*/
+/*    border: 3px solid darkblue;*/
+/*}*/
+#box-two ~ div {
+    border: 3px solid darkblue;
+}
