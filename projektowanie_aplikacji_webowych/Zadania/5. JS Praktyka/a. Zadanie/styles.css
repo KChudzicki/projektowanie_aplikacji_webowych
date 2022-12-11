@@ -1,0 +1,16 @@
+/*label {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+
+input{
+    width: 200px;
+}
+button{
+    width: 150px;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: lightgreen;
+}
